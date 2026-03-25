@@ -17,5 +17,6 @@
 - адаптивный интерфейс
 
 **Сайт: https://pravdyusha.github.io/To-Do-List**
+
 **Код: https://github.com/Pravdyusha/To-Do-List**
 
