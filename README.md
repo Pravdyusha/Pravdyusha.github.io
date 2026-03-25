@@ -16,6 +16,6 @@
 - сохранение в localStorage
 - адаптивный интерфейс
 
- **Сайт: https://pravdyusha.github.io/To-Do-List**
+**Сайт: https://pravdyusha.github.io/To-Do-List**
 **[Посмотреть код](https://github.com/Pravdyusha/To-Do-List)**
 
