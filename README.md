@@ -1,4 +1,3 @@
-# Pravdyusha.github.io
 ## Мои проекты
 
 ### To-Do List
