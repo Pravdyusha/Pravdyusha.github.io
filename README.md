@@ -34,7 +34,7 @@
 - Функции, строки, работа с файлами
 
 ### Практические работы по дисциплине «Структуры и организация данных»:
-**Репозиторий:** https://github.com/Pravdusha/voenmeh-siod-labs
+**Репозиторий:** https://github.com/Pravdyusha/voenmeh-siod-labs
 
 **Язык:** C / C++
 
