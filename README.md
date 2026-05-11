@@ -19,3 +19,5 @@
 
 **Код: https://github.com/Pravdyusha/To-Do-List**
 
+## Университетские проекты (БГТУ «Военмех»)
+
